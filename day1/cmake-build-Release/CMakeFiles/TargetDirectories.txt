@@ -1,3 +1,0 @@
-/home/nikl/gitrepos/AoC_2021/day1/cmake-build-Release/CMakeFiles/MAIN.dir
-/home/nikl/gitrepos/AoC_2021/day1/cmake-build-Release/CMakeFiles/edit_cache.dir
-/home/nikl/gitrepos/AoC_2021/day1/cmake-build-Release/CMakeFiles/rebuild_cache.dir

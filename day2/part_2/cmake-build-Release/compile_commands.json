@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/nikl/gitrepos/AoC_2021/day2/part_2/cmake-build-Release",
-  "command": "/usr/bin/c++   -O3 -DNDEBUG -o CMakeFiles/MAIN.dir/main.cpp.o -c /home/nikl/gitrepos/AoC_2021/day2/part_2/main.cpp",
-  "file": "/home/nikl/gitrepos/AoC_2021/day2/part_2/main.cpp"
-}
-]

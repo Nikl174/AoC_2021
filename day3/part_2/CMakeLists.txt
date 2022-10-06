@@ -3,4 +3,4 @@ project(day3)
 
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-add_executable(MAIN main.cpp)
+add_executable(MAIN main2.cpp)
